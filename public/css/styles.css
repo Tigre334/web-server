@@ -1,0 +1,19 @@
+h1 {
+    color: coral;
+}
+
+img {
+    width: 500px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+button {
+    padding: 10px;
+    border: 1px solid gray;
+    color: white;
+    background: violet;
+}
